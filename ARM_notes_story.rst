@@ -30,7 +30,8 @@ engineer gave a well received talk on WARNO: Watchdog for ARM Radar Network
 Operations demonstrating how Python tools were being used to track the health of the ARM radar network.
 
 Bhargavi Krishna from Oakridge National Laboratory and Erol Cromwell and Carina
-Lansing from Pacific Northwest National Laboratory also attended to learn the
+Lansing from Pacific Northwest National Laboratory Gökhan Sever, a numerical
+modeller from Argonne also attended to learn the
 latest tools in the Scipy stack which will help them better deliver data to ARM
 users. 
 
