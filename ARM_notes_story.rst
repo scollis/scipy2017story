@@ -15,11 +15,10 @@ across diverse domains. There is a focus on the "how" over the "what". The main
 benefit to the ARM program is attendees come away with a quiver of new tools
 saving many hours of coding. 
 
-Argonne Developers Bobby Jackson, Mark Picel and Zach Sherman attended the
-tutorials at the beginning of the week. They were led by expert instructors
-(often core code developers) on Machine Learning, code optimization and project
+Developers and Engineers from across the ARM program attended tutorials at the beginning of the week. They were led by expert instructors
+(often core code developers) on Machine Learning, visualization, code optimization and project
 Jupyter (an interactive notebook environment and tool for scientific
-reproducibility).  
+reproducibility). 
 
 The Conference proper kicked off Wednesday with Keynote sessions and poster
 sessions. Precipitation Radar Translator and Py-ART lead Scott Collis presented
